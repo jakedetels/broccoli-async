@@ -1,0 +1,17 @@
+{
+  "name": "broccoli-async",
+  "version": "0.0.1",
+  "description": "Use async functions when building Broccoli nodes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jake Detels",
+  "license": "MIT",
+  "dependencies": {
+    "broccoli-plugin": "^1.2.1"
+  },
+  "keywords": [
+    "broccoli-plugin"
+  ]
+}
